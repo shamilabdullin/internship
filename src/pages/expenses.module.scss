@@ -1,0 +1,15 @@
+.expenses{
+    text-align: center;
+
+    a{
+        color: black;
+        text-decoration: none;
+    }
+    a:active {
+        color: blue;
+    }
+
+    .myButton{
+        margin: 5px;
+    }
+}
